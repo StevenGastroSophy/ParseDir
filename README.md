@@ -1,4 +1,4 @@
-# ParseDir
+# ParseDir.py
 爬取資料夾結構
 
 Demo以 treeviz來繪製樹狀圖，執行 Demo後會印出
